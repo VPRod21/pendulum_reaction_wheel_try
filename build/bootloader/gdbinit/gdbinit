@@ -1,0 +1,2 @@
+source /home/rdutec/cnl_proyect/build/bootloader/gdbinit/symbols
+source /home/rdutec/cnl_proyect/build/bootloader/gdbinit/connect

@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.xacro": "xml",
+        "soc_caps.h": "c",
+        "freertos.h": "c",
+        "esp_heap_caps.h": "c",
+        "esp_timer.h": "c",
+        "adc_continuous.h": "c",
+        "stdlib.h": "c",
+        "task.h": "c",
+        "adc_cali_scheme.h": "c",
+        "adc_cali.h": "c",
+        "mcpwm_prelude.h": "c",
+        "stdio.h": "c",
+        "pcnt.h": "c"
+    }
+}

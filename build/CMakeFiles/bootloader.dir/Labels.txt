@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/rdutec/cnl_proyect/build/CMakeFiles/bootloader
+/home/rdutec/cnl_proyect/build/CMakeFiles/bootloader.rule
+/home/rdutec/cnl_proyect/build/CMakeFiles/bootloader-complete.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/rdutec/cnl_proyect/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
